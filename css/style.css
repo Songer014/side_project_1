@@ -78,6 +78,7 @@ body p{
 }
 
 .header{
+	z-index: 99;
 	display:inline-flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
