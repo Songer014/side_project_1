@@ -209,7 +209,7 @@ body p{
 	background-color: black;
 	width: 100%;
 	height:560px;
-	background-image: url('../img/ad.jpg');
+	background-image: url('../img/banner.jpg');
 	background-repeat: no-repeat;
 	background-position: right;
 
@@ -597,7 +597,7 @@ body p{
 	width: 90%;
 	padding: 20% 0 0 10%;
 	height: 380px;
-	background-image: url('../img/ad_small.jpg');
+	background-image: url('../img/banner_small.jpg');
 	background-position: center center;
 }
 
@@ -940,7 +940,7 @@ body p{
 
 
 .header h1{
-	background-image: url('../img/logo.png');
+	background-image: url('../img/Logo.png');
 	background-repeat: no-repeat;
 	text-indent: 101%;
 	overflow: hidden;
@@ -974,7 +974,7 @@ body p{
 	width: 90%;
 	padding: 30% 0 0 10%;
 	height: 380px;
-	background-image: url('../img/ad_small.jpg');
+	background-image: url('../img/banner_small.jpg');
 	background-position: center center;
 }
 
